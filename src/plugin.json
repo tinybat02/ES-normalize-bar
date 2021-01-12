@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Normalize Bar",
+  "id": "id-normalize-bar",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "Normalize Bar",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
